@@ -129,6 +129,7 @@ else:
 print (f"{transformar}")
 
 sleep(2)
-             
+
+print("Me faltan algunos ejercicios!")            
                
 
